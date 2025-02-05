@@ -11,6 +11,8 @@ The challenge is focused on:
 
 The goal is to use both labeled and unlabeled data for training a robust model to detect weeds in agricultural fields.
 
+https://drive.google.com/file/d/1tuvC3TF4hD7ho6Zpvrh9Xsj-IeCFoTcY/view?usp=drive_link  THis is the link for model files
+
 ## Installation
 
 Before running any scripts, you need to install the required dependencies. Make sure you have Python 3.7 or higher installed. ALso run the below command before running notebook
